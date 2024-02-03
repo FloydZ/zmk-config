@@ -59,7 +59,7 @@
             &kp AT     &kp HASH   &kp LPAR   &kp RPAR   &kp EQUAL      &kp ASTRK  &kp N4     &kp N5     &kp N6     &kp SQT 
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│  $       │  %       │  [       │  ]       │    -     │   │ \ |      │ 7        │ 8        │ 9        │  \ |     │
-            &kp DLLR   &kp PRCNT  &kp LBKT   &kp RBKT   &kp MINUS      &kp BSHL   &kp N7     &kp N8     &kp N9     &kp BSHL
+            &kp DLLR   &kp PRCNT  &kp LBKT   &kp RBKT   &kp MINUS      &kp BSLH   &kp N7     &kp N8     &kp N9     &kp BSLH
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                                              &trans     &tans          &trans     &trans
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
